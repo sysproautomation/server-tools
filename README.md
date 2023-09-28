@@ -27,7 +27,7 @@ addon | version | maintainers | summary
 [autovacuum_message_attachment](autovacuum_message_attachment/) | 13.0.1.0.1 |  | Automatically delete old mail messages and attachments
 [base_changeset](base_changeset/) | 13.0.1.0.1 | [![astirpe](https://github.com/astirpe.png?size=30px)](https://github.com/astirpe) | Track record changesets
 [base_cron_exclusion](base_cron_exclusion/) | 13.0.1.0.1 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Allow you to select scheduled actions that should not run simultaneously.
-[base_custom_info](base_custom_info/) | 13.0.1.0.2 |  | Add custom field in models
+[base_custom_info](base_custom_info/) | 13.0.1.0.3 |  | Add custom field in models
 [base_deterministic_session_gc](base_deterministic_session_gc/) | 13.0.1.0.0 |  | Provide a deterministic session garbage collection instead of the default random one
 [base_domain_inverse_function](base_domain_inverse_function/) | 13.0.1.0.0 | [![grindtildeath](https://github.com/grindtildeath.png?size=30px)](https://github.com/grindtildeath) | Provide function to inverse domain into parts
 [base_exception](base_exception/) | 13.0.1.2.0 |  | This module provide an abstract model to manage customizable exceptions to be applied on different models (sale order, invoice, ...)
@@ -41,6 +41,7 @@ addon | version | maintainers | summary
 [base_sparse_field_list_support](base_sparse_field_list_support/) | 13.0.1.0.2 |  | add list support to convert_to_cache()
 [base_technical_user](base_technical_user/) | 13.0.1.0.1 |  | Add a technical user parameter on the company
 [base_time_window](base_time_window/) | 13.0.1.0.1 |  | Base model to handle time windows
+[base_translation_field_label](base_translation_field_label/) | 13.0.1.0.0 | [![GuillemCForgeFlow](https://github.com/GuillemCForgeFlow.png?size=30px)](https://github.com/GuillemCForgeFlow) | Shows the field label and optionally hides the Translated field value.
 [base_view_inheritance_extension](base_view_inheritance_extension/) | 13.0.2.0.0 |  | Adds more operators for view inheritance
 [bus_alt_connection](bus_alt_connection/) | 13.0.1.0.1 |  | Needed when using PgBouncer as a connection pooler
 [company_country](company_country/) | 13.0.2.0.1 | [![moylop260](https://github.com/moylop260.png?size=30px)](https://github.com/moylop260) [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Set country to main company - DEPRECATED
@@ -62,6 +63,7 @@ addon | version | maintainers | summary
 [module_auto_update](module_auto_update/) | 13.0.1.0.1 |  | Automatically update Odoo modules
 [nsca_client](nsca_client/) | 13.0.1.0.2 |  | Send passive alerts to monitor your Odoo application.
 [onchange_helper](onchange_helper/) | 13.0.1.1.0 |  | Technical module that ease execution of onchange in Python code
+[profiler](profiler/) | 13.0.1.0.0 |  | profiler
 [scheduler_error_mailer](scheduler_error_mailer/) | 13.0.1.0.0 |  | Scheduler Error Mailer
 [sentry](sentry/) | 13.0.1.1.2 |  | Report Odoo errors to Sentry
 [sequence_custom_data](sequence_custom_data/) | 13.0.1.0.1 |  | Technical addon used to add some custom codes into the sequence (used for prefix/suffix).
